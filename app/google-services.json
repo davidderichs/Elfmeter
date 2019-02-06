@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687566104991",
+    "firebase_url": "https://elfmeter-814614.firebaseio.com",
+    "project_id": "elfmeter-814614",
+    "storage_bucket": "elfmeter-814614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687566104991:android:f3bbfe7d090766bb",
+        "android_client_info": {
+          "package_name": "derichs.david.elfmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687566104991-stqk63ldl68l0rbjvlckp9eje4cc2hal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "derichs.david.elfmeter",
+            "certificate_hash": "84b4e5fdc1f10efaaacd14e946cedf686d0aa005"
+          }
+        },
+        {
+          "client_id": "687566104991-m2tj6r8eikeoc11nem6h1fhdd5s4qatg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOIcENI11hCKZB3je0TenBycx5Vrd9vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687566104991-m2tj6r8eikeoc11nem6h1fhdd5s4qatg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
