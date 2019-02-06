@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Elfmeter</string>
+    <string name="keep_tapping">Keep tapping.</string>
+    <string name="done">Done!</string>
+    <string name="next">nächster</string>
+    <string name="shoot">schießen</string>
+    <string name="reset">reset</string>
+</resources>
